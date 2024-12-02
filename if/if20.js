@@ -1,0 +1,1 @@
+// Besh xonali ​n ​butun soni berilgan shu son raqamlaring eng kattasini va turgan indexini(o`rnini) qaytaradigan dastur tuzing.
